@@ -1,0 +1,30 @@
+_repo: The-Welsh-and-Their-Literaturefrom-The-London-Quarterly-Review-January-1861-American-Edition_33336
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Borrow, George
+    alias: Borrow, George Henry
+    birthdate: 1803
+    deathdate: 1881
+    gutenberg_agent_id: '4383'
+    url: http://www.gutenberg.org/2009/agents/4383
+    wikipedia: http://en.wikipedia.org/wiki/George_Borrow
+description: ''
+gutenberg_issued: '2010-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33336'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PB'
+- !lcsh 'Welsh literature -- History and criticism'
+title: 'The Welsh and Their Literature
+
+  from The London Quarterly Review, January 1861, American Edition'
+url: http://www.gutenberg.org/ebooks/33336
